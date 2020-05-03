@@ -1,0 +1,534 @@
+{
+  "come up with (smth)": {
+    "definition": "Think of a plan or solution to a problem.",
+    "examples": [
+      "They {came} {up} with a plan to make the business more profitable."
+    ],
+    "image": "https://images.unsplash.com/photo-1509029032154-54ba8b3216d4?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+  },
+  "count on (sb)": {
+    "definition": "To have confidence in someone because you know they will do what you want.",
+    "examples": [
+      "You can always {count} {on} Greg in a crisis."
+    ],
+    "image": "https://images.unsplash.com/photo-1521790797524-b2497295b8a0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "cut down on (smth)": {
+    "definition": "To eat or drink less of a particular thing, usually in order to improve your health.",
+    "examples": [
+      "I’m trying to {cut} {down} on sugar."
+    ],
+    "image": "https://images.unsplash.com/photo-1562245376-3f9dae9f0e73?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "deal with (smth)": {
+    "definition": "To take action in order to achieve something, or in order to solve a problem.",
+    "examples": [
+      "You have to be really patient when you’re {dealing} {with} boss."
+    ],
+    "image": "https://images.unsplash.com/photo-1554200876-56c2f25224fa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "depend on (smth/sb)": {
+    "definition": "To be influenced or determined by something else.",
+    "examples": [
+      "Whether or not we go to Italy for our vacation {depends} {on} the cost."
+    ],
+    "image": "https://images.unsplash.com/photo-1533676802871-eca1ae998cd5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "drink up": {
+    "definition": "To completely finish your drink.",
+    "examples": [
+      "{Drink} {up} your juice, it’s time to go."
+    ],
+    "image": "https://images.unsplash.com/photo-1513169639596-cf0480fe1bb9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "drop in": {
+    "definition": "To make a short visit to someone in their home.",
+    "examples": [
+      "{Drop} {in} when you’re in the neighbourhood."
+    ],
+    "image": "https://images.unsplash.com/photo-1559571050-8e4be7476bce?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "eat out": {
+    "definition": "To eat a meal in a restaurant, not at home.",
+    "examples": [
+      "I really like {eat} {out}."
+    ],
+    "image": "https://images.unsplash.com/photo-1533777857889-4be7c70b33f7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "fall apart": {
+    "definition": "When something breaks or breaks into pieces because it is old or weak.",
+    "examples": [
+      "My old sneakers are {falling} {apart}."
+    ],
+    "image": "https://images.unsplash.com/photo-1517507622184-28e659520fdf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "fall out with": {
+    "definition": "To argue with someone and stop being friends with them.",
+    "examples": [
+      "He {fell} {out} with his wife over money."
+    ],
+    "image": "https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "figure out": {
+    "definition": "To understand something. To find the answer by thinking carefully.",
+    "examples": [
+      "It took me some time to {figure} {out} the new software."
+    ],
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "find out": {
+    "definition": "To get information about something because you want to know more about it.",
+    "examples": [
+      "If you want to {find} {out} more, visit our website."
+    ],
+    "image": "https://images.unsplash.com/photo-1527689368864-3a821dbccc34?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "get away": {
+    "definition": "To go somewhere to have a holiday, especially because you need a rest.",
+    "examples": [
+      "I just need to {get} {away} for a couple of weeks."
+    ],
+    "image": "https://images.unsplash.com/photo-1487252743978-58058cd2fc34?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "get by": {
+    "definition": "To have just enough money to pay for the things that you need, but nothing more.",
+    "examples": [
+      "How can she {get} {by} on so little money?"
+    ],
+    "image": "https://images.unsplash.com/photo-1561414927-6d86591d0c4f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "get on (smth)": {
+    "definition": "To go onto a bus, train, aircraft, or boat.",
+    "examples": [
+      "I guess I {got} {on} the wrong bus."
+    ],
+    "image": "https://images.unsplash.com/photo-1520442922418-8211a6fe605c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "get off (smth)": {
+    "definition": "To leave a bus, train, aircraft, or boat.",
+    "examples": [
+      "Call me when you {get} {off} the plane."
+    ],
+    "image": "https://images.unsplash.com/photo-1514546009555-855411a43e26?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "get along (with sb)": {
+    "definition": "To like each other and be friendly to each other.",
+    "examples": [
+      "I really {get} {along} with my wife’s brother."
+    ],
+    "image": "https://images.unsplash.com/photo-1528355988454-70e9a2558d96?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "get over (smth)": {
+    "definition": "To begin to feel better after an experience that has made you unhappy.",
+    "examples": [
+      "I’m {getting} {over} my allergy."
+    ],
+    "image": "https://images.unsplash.com/photo-1529386317747-0a2a51add902?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "get together": {
+    "definition": "To meet in order to do something. Or spend time together.",
+    "examples": [
+      "Do you want to {get} {together} at the weekend and go for a drink?"
+    ],
+    "image": "https://images.unsplash.com/photo-1511988617509-a57c8a288659?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "get up": {
+    "definition": "To wake up and get out of bed.",
+    "examples": [
+      "I always {get} {up} at 7 on weekdays."
+    ],
+    "image": "https://images.unsplash.com/photo-1550534791-2677533605ab?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+  },
+  "give up (smth)": {
+    "definition": "If you give up a habit or give up something unhealthy, you stop doing it or having it.",
+    "examples": [
+      "He {gave} {up} overeating after his heart attack."
+    ],
+    "image": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "go ahead": {
+    "definition": "To start to do something.",
+    "examples": [
+      "I {went} {ahead} and arranged the camping trip anyway."
+    ],
+    "image": "https://images.unsplash.com/photo-1537565266759-34bbc16be345?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "go by": {
+    "definition": "If time goes by, it passes.",
+    "examples": [
+      "Things are going to get easier as time {goes} {by}."
+    ],
+    "image": "https://images.unsplash.com/photo-1536960242068-96914a09214c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "go off": {
+    "definition": "If a warning device goes off, it suddenly makes a loud noise.",
+    "examples": [
+      "The bomb {went} {off} at 5.45 this morning."
+    ],
+    "image": "https://images.unsplash.com/photo-1565993408502-78339a61c056?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "go on": {
+    "definition": "To continue doing something.",
+    "examples": [
+      "I really can’t {go} {on} living like this – I’ll have to find a bigger apartment."
+    ],
+    "image": "https://images.unsplash.com/photo-1483402364126-b30d8dfc49be?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "go out with (sb)": {
+    "definition": "To have a romantic relationship with someone.",
+    "examples": [
+      "They’ve been {going} {out} for one and a half years now."
+    ],
+    "image": "https://images.unsplash.com/photo-1513279922550-250c2129b13a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "grow up": {
+    "definition": "To gradually change from being a child to being an adult.",
+    "examples": [
+      "What did you want to be when you {grew} {up}?"
+    ],
+    "image": "https://images.unsplash.com/photo-1542810634-71277d95dcbb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "hang out": {
+    "definition": "To spend a lot of time in a place or with someone.",
+    "examples": [
+      "Let’s {hang} {out} later."
+    ],
+    "image": "https://images.unsplash.com/photo-1532452119098-a3650b3c46d3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "hang (smth) up": {
+    "definition": "To hang something, especially clothes, on a hook.",
+    "examples": [
+      "{Hang} your jacket {up} and come on in."
+    ],
+    "image": "https://images.unsplash.com/photo-1560265036-021b3652b490?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "heat (smth) up": {
+    "definition": "To make food hot so it can be eaten.",
+    "examples": [
+      "I {heated} {up} a piece of pizza."
+    ],
+    "image": "https://images.unsplash.com/photo-1561350111-7daa4f284bc6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "hit it off": {
+    "definition": "If two people hit it off, they become friendly immediately.",
+    "examples": [
+      "I knew you would {hit} it {off} with Trisha."
+    ],
+    "image": "https://images.unsplash.com/photo-1517840933437-c41356892b35?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "hold on": {
+    "definition": "To wait for a short time.",
+    "examples": [
+      "{Hold} {on}, I’ll get my coat."
+    ],
+    "image": "https://images.unsplash.com/photo-1466027294893-61e41c365431?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "hold (smth/smb) up": {
+    "definition": "To delay something or someone.",
+    "examples": [
+      "I won’t {hold} you {up} if you’re in a hurry."
+    ],
+    "image": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "hurry up": {
+    "definition": "To do something more quickly.",
+    "examples": [
+      "{Hurry} {up}! We’re gonna miss the train!"
+    ],
+    "image": "https://images.unsplash.com/photo-1542779867-df548aa44f1c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "keep on": {
+    "definition": "To continue to do something.",
+    "examples": [
+      "You have to {keep} {on} training. And you will get a point!"
+    ],
+    "image": "https://images.unsplash.com/photo-1545793954-c307248ef0f2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "keep up": {
+    "definition": "To continue to do something, especially to work hard or to do good work.",
+    "examples": [
+      "{Keep} {up} the good work!"
+    ],
+    "image": "https://images.unsplash.com/photo-1538405505827-e519f0efb68e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "lay off": {
+    "definition": "To stop employing someone because there’s no work for them to do.",
+    "examples": [
+      "The company {laid} {off} 200 workers in November."
+    ],
+    "image": "https://images.unsplash.com/photo-1569919827797-f768bef1ac6d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "let (smb) down": {
+    "definition": "To disappoint somebody.",
+    "examples": [
+      "He’s {let} me {down} again."
+    ],
+    "image": "https://images.unsplash.com/photo-1517857651972-b13347c76b1f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "lie in": {
+    "definition": "To stay in bed in the morning later than you usually do.",
+    "examples": [
+      "I like {lying} {in} on a Sunday."
+    ],
+    "image": "https://images.unsplash.com/photo-1517898717281-8e4385a41802?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "look after": {
+    "definition": "To take care of someone or something.",
+    "examples": [
+      "Don’t worry, my mother will {look} {after} the kids."
+    ],
+    "image": "https://images.unsplash.com/photo-1476703993599-0035a21b17a9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "look down on (smb)": {
+    "definition": "To think that someone is less important than you",
+    "examples": [
+      "She {looks} {down} on him because he doesn't have a job."
+    ],
+    "image": "https://images.unsplash.com/photo-1478380967566-2721c6568d8a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "look for": {
+    "definition": "To try to find someone or something.",
+    "examples": [
+      "Sam’s {looking} {for} a job at the moment."
+    ],
+    "image": "https://images.unsplash.com/photo-1551673272-861dbd2c393d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "look forward": {
+    "definition": "To feel excited about something that is going to happen.",
+    "examples": [
+      "Are you {looking} {forward} to your vacation?"
+    ],
+    "image": "https://images.unsplash.com/photo-1550399504-8953e1a6ac87?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "look through": {
+    "definition": "To read something quickly and not very carefully.",
+    "examples": [
+      "I’ve {looked} {through} some magazines."
+    ],
+    "image": "https://images.unsplash.com/photo-1499725144476-a35e60e41ab8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "look up": {
+    "definition": "To look at a book or computer to find a piece of information.",
+    "examples": [
+      "I {looked} {up} dark matter on the Internet to find out more about it."
+    ],
+    "image": "https://images.unsplash.com/photo-1501250987900-211872d97eaa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "look up to (smb)": {
+    "definition": "To respect and admire someone.",
+    "examples": [
+      "He’s always {looked} {up} to his granddad."
+    ],
+    "image": "https://images.unsplash.com/photo-1464998857633-50e59fbf2fe6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "make (smth) up": {
+    "definition": "To say or write something that is not true in order to deceive someone.",
+    "examples": [
+      "Are you {making} that {up}?"
+    ],
+    "image": "https://images.unsplash.com/photo-1551731409-43eb3e517a1a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "make up": {
+    "definition": "To forgive someone you have argued with.",
+    "examples": [
+      "We sometimes quarrel but we always {make} {up} soon after."
+    ],
+    "image": "https://images.unsplash.com/photo-1520206319821-0496cfdeb31e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "make up for (smth)": {
+    "definition": "To provide something good to make a bad situation better.",
+    "examples": [
+      "I studied extra hours to {make} {up} for the time I had missed."
+    ],
+    "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "mess up": {
+    "definition": "Spoil or damage something, or do something badly.",
+    "examples": [
+      "Who has {messed} {up} my room?"
+    ],
+    "image": "https://images.unsplash.com/photo-1506233166564-37ae224e467f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "mix up": {
+    "definition": "To confuse two people or things.",
+    "examples": [
+      "They look so much alike, I always {mix} them {up}."
+    ],
+    "image": "https://images.unsplash.com/photo-1531129630896-1744cab0cafd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "move in": {
+    "definition": "To begin living in a new house or area",
+    "examples": [
+      "I’ve just {moved} {in}, so I don’t know anyone yet."
+    ],
+    "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "move out": {
+    "definition": "To stop living in a particular house",
+    "examples": [
+      "I’ve been given a week to {move} {out}."
+    ],
+    "image": "https://images.unsplash.com/photo-1473625247510-8ceb1760943f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "name after": {
+    "definition": "To give someone or something the same name as someone or something else.",
+    "examples": [
+      "Jack was {named} {after} his grandfather."
+    ],
+    "image": "https://images.unsplash.com/photo-1504151671506-6312eceb0f18?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "pass out": {
+    "definition": "To become unconscious.",
+    "examples": [
+      "I almost {passed} {out} when I saw him."
+    ],
+    "image": "https://images.unsplash.com/photo-1570967108632-4d486e73e944?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "pay back": {
+    "definition": "To pay someone the money that you owe them.",
+    "examples": [
+      "I’ll {pay} you {back} as soon as I get my next salary."
+    ],
+    "image": "https://images.unsplash.com/photo-1518458028785-8fbcd101ebb9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "pay off": {
+    "definition": "If something you have done pays off, it is successful.",
+    "examples": [
+      "All his hard work {paid} {off} in the end."
+    ],
+    "image": "https://images.unsplash.com/photo-1468971050039-be99497410af?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "Pick on (smb)": {
+    "definition": "To criticize, punish, or be unkind to a person often and unfairly.",
+    "examples": [
+      "The other boys {pick} {on} him because he’s so small."
+    ],
+    "image": "https://images.unsplash.com/photo-1490578474895-699cd4e2cf59?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "Pick (smb/smth) up": {
+    "definition": "To get or bring someone or something from somewhere.",
+    "examples": [
+      "You have to {pick} {up} the kids from school."
+    ],
+    "image": "https://images.unsplash.com/photo-1527058918112-6e17a8213943?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+  },
+  "Pick up": {
+    "definition": "To improve or increase after a bad period.",
+    "examples": [
+      "Her career is beginning to {pick} {up}."
+    ],
+    "image": "https://images.unsplash.com/photo-1576267443888-219e7358f757?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "Pile up": {
+    "definition": "To increase in amount.",
+    "examples": [
+      "The work is really {piling} {up}."
+    ],
+    "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+  },
+  "Pour down": {
+    "definition": "To rain heavily.",
+    "examples": [
+      "Take an umbrella, it’s {pouring} {down}!"
+    ],
+    "image": "https://images.unsplash.com/photo-1519692933481-e162a57d6721?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "Pull down (smth)": {
+    "definition": "To destroy a building because it is not wanted anymore.",
+    "examples": [
+      "Our old school was {pulled} {down}."
+    ],
+    "image": "https://images.unsplash.com/photo-1515890777364-a67aae184119?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "Pull over": {
+    "definition": "To drive to the side of the road and stop your car, or to make someone else do this.",
+    "examples": [
+      "A policeman {pulled} me {over} the other day."
+    ],
+    "image": "https://images.unsplash.com/photo-1575673573940-beec326e4979?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "Pull yourself together": {
+    "definition": "To become calm and behave normally again after being angry or upset.",
+    "examples": [
+      "Just {pull} yourself {together}."
+    ],
+    "image": "https://images.unsplash.com/photo-1501001462338-50b8fc576dcc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "Put (smb) down": {
+    "definition": "To make someone feel stupid and unimportant by criticizing them.",
+    "examples": [
+      "Stop {putting} me {down}."
+    ],
+    "image": "https://images.unsplash.com/photo-1541199249251-f713e6145474?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "Put forward (smth)": {
+    "definition": "To suggest a plan, proposal, idea for other people to consider or discuss.",
+    "examples": [
+      "We’ve {put} {forward} a number of ideas."
+    ],
+    "image": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "Put off (smth)": {
+    "definition": "To delay doing something or to arrange to do something at a later time.",
+    "examples": [
+      "I often {put} {off} doing my work."
+    ],
+    "image": "https://images.unsplash.com/photo-1567175488465-e585f9f5adf9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "Put on (smth)": {
+    "definition": "To put a piece of clothing onto your body.",
+    "examples": [
+      "I think I’ll {put} {on} a pair of jeans and a top."
+    ],
+    "image": "https://images.unsplash.com/photo-1567113463300-102a7eb3cb26?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "Put out (smth)": {
+    "definition": "To make something that is burning stop burning.",
+    "examples": [
+      "The firefighters are still trying to {put} {out} the fire."
+    ],
+    "image": "https://images.unsplash.com/photo-1563062067-723c14a7c7ba?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "put up with (smb/smth)": {
+    "definition": "To accept unpleasant behavior or an unpleasant situation.",
+    "examples": [
+      "I can’t {put} {up} with it anymore."
+    ],
+    "image": "https://images.unsplash.com/photo-1493836512294-502baa1986e2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "Read up on (smth)": {
+    "definition": "To read a lot about something because you will need to know about it.",
+    "examples": [
+      "You might want to {read} {up} on it."
+    ],
+    "image": "https://images.unsplash.com/photo-1491309055486-24ae511c15c7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "Rely on (smb/smth)": {
+    "definition": "To trust on someone or something to do what you need them to do.",
+    "examples": [
+      "I knew we could {rely} {on} you."
+    ],
+    "image": "https://images.unsplash.com/photo-1491309055486-24ae511c15c7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "Rip off (smb)": {
+    "definition": "To cheat someone by making them pay too much money for something.",
+    "examples": [
+      "Tourists are often {ripped} {off}."
+    ],
+    "image": "https://images.unsplash.com/photo-1523225918988-00624e6d8fee?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+  },
+  "Run away": {
+    "definition": "To secretly leave a place in order to escape from someone or something.",
+    "examples": [
+      "He {ran} {away} from home at the age of 15."
+    ],
+    "image": "https://images.unsplash.com/photo-1484250214257-26317e1e0f1e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  },
+  "Run into (smb)": {
+    "definition": "To meet someone by chance.",
+    "examples": [
+      "Guess who I {ran} {into} today!"
+    ],
+    "image": "https://images.unsplash.com/photo-1541969599541-6e2e6cb09941?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+  }
+}
